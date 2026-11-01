@@ -1,0 +1,6 @@
+starlette>=0.40
+uvicorn>=0.30
+pydantic>=2.7,<3
+python-dotenv>=1.0
+# Optional: only needed if you set ANTHROPIC_API_KEY to enable the AI features.
+anthropic>=0.40
